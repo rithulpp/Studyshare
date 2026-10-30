@@ -1,0 +1,6 @@
+{
+  "name": "StudyShare - Student Notes & PYQ Portal",
+  "description": "A modern platform for college students to upload, share, search, and download study notes, previous year question papers, and syllabus with permanent server-side file storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

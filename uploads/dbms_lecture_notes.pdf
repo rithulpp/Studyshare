@@ -1,0 +1,66 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 1172 >>
+stream
+BT
+/F1 22 Tf
+50 720 Td
+(Database Management Systems DBMS - SQL  Norma) Tj
+/F1 12 Tf
+0 -32 Td
+(Course: Database Management Systems  |  Semester: 4  |  Dept: Information Technology) Tj
+0 -22 Td
+(Verified Academic Notes  |  Uploaded by: Rohan Verma  |  StudyShare) Tj
+0 -30 Td
+/F1 14 Tf
+(Document Overview & Core Syllabus Focus:) Tj
+/F1 11 Tf
+0 -24 Td
+(Concise lecture notes covering Relational Algebra, ER modeling, 1NF to BCNF step-by-step decomposition examples, ACID transactions, and Concurrency Control.) Tj
+0 -35 Td
+/F1 14 Tf
+(Key Units & Modules Included:) Tj
+/F1 11 Tf
+0 -22 Td
+(Unit 1: Fundamentals, Definitions, Mathematical Foundations & Axioms) Tj
+0 -20 Td
+(Unit 2: Detailed Architectural Diagrams, Theorems & Rigorous Proofs) Tj
+0 -20 Td
+(Unit 3: Step-by-Step Solved Problem Sets & Numerical Explanations) Tj
+0 -20 Td
+(Unit 4: University Previous Examination Trends & High-Yield Questions) Tj
+0 -20 Td
+(Unit 5: Lab Workflows, Code Implementations & Viva-Voce Key Points) Tj
+0 -45 Td
+/F1 10 Tf
+(Permanent Server-Side Storage - Powered by StudyShare Academic Network) Tj
+0 -16 Td
+(Shared for peer learning under Educational Fair Use. Free student download.) Tj
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1535
+%%EOF
