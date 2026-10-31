@@ -6,7 +6,8 @@ import {
   ShieldCheck,
   Heart,
   BookOpen,
-  MessageSquare
+  MessageSquare,
+  Linkedin
 } from 'lucide-react';
 import { ViewTab } from '../types';
 
@@ -146,10 +147,26 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate, onFilterSemester }) 
           <div>
             © {new Date().getFullYear()} StudyShare Portal. Designed for college students & peer academic exchange.
           </div>
-          <div className="flex items-center gap-4">
-            <span>Free & Open Student Resource</span>
-            <span>·</span>
-            <span>Non-commercial educational use</span>
+          <div className="flex items-center gap-3">
+            <a
+              href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fais-pre-ypgn356fpwxr56edo4n2rg-990742092575.asia-southeast1.run.app"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-[#0A66C2]/15 text-[#70b5f9] hover:bg-[#0A66C2]/30 transition-colors border border-[#0A66C2]/30 font-medium"
+              title="Share StudyShare on LinkedIn"
+            >
+              <Linkedin className="w-3.5 h-3.5" />
+              Share on LinkedIn
+            </a>
+            <span className="text-slate-600">·</span>
+            <a
+              href="https://github.com/rithulpp/Studyshare"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-slate-300 transition-colors"
+            >
+              GitHub Repository
+            </a>
           </div>
         </div>
       </div>
